@@ -1,0 +1,177 @@
+control_id,item_id,conclusion,tester_note
+AC-01,EV00001,PASS,Approved by authorized approver before provisioning
+AC-01,EV00002,PASS,Approved by authorized approver before provisioning
+AC-01,EV00003,PASS,Approved by authorized approver before provisioning
+AC-01,EV00004,PASS,Approved by authorized approver before provisioning
+AC-01,EV00005,PASS,Approved by authorized approver before provisioning
+AC-01,EV00006,PASS,Approved by authorized approver before provisioning
+AC-01,EV00007,PASS,Approved by authorized approver before provisioning
+AC-01,EV00008,PASS,Approved by authorized approver before provisioning
+AC-01,EV00009,PASS,Approved by authorized approver before provisioning
+AC-01,EV00010,PASS,Approved by authorized approver before provisioning
+AC-01,EV00011,PASS,Approved by authorized approver before provisioning
+AC-01,EV00012,PASS,Approved by authorized approver before provisioning
+AC-01,EV00013,PASS,Approved by authorized approver before provisioning
+AC-01,EV00014,PASS,Approved by authorized approver before provisioning
+AC-01,EV00015,PASS,Approved by authorized approver before provisioning
+AC-01,EV00016,PASS,Approved by authorized approver before provisioning
+AC-01,EV00017,PASS,Approved by authorized approver before provisioning
+AC-01,EV00018,PASS,Approved by authorized approver before provisioning
+AC-01,EV00019,PASS,Approved by authorized approver before provisioning
+AC-01,EV00020,PASS,Approved by authorized approver before provisioning
+AC-01,EV00021,PASS,Approved by authorized approver before provisioning
+AC-01,EV00022,PASS,Approved by authorized approver before provisioning
+AC-01,EV00023,PASS,Approved by authorized approver before provisioning
+AC-01,EV00024,PASS,Approved by authorized approver before provisioning
+AC-01,EV00025,PASS,Approved by authorized approver before provisioning
+AC-01,EV00026,PASS,Approved by authorized approver before provisioning
+AC-01,EV00027,PASS,Approved by authorized approver before provisioning
+AC-01,EV00028,PASS,Approved by authorized approver before provisioning
+AC-01,EV00029,PASS,Approved by authorized approver before provisioning
+AC-01,EV00030,EXCEPTION,No request ticket for the access change
+AC-01,EV00031,PASS,Approved by authorized approver before provisioning
+AC-01,EV00032,PASS,Approved by authorized approver before provisioning
+AC-01,EV00033,PASS,Approved by authorized approver before provisioning
+AC-01,EV00034,PASS,Approved by authorized approver before provisioning
+AC-01,EV00035,PASS,Approved by authorized approver before provisioning
+AC-01,EV00036,PASS,Approved by authorized approver before provisioning
+AC-01,EV00037,PASS,Approved by authorized approver before provisioning
+AC-01,EV00038,PASS,Approved by authorized approver before provisioning
+AC-01,EV00039,EXCEPTION,Requester approved their own access (SoD)
+AC-01,EV00040,PASS,Approved by authorized approver before provisioning
+AC-01,EV00041,PASS,Approved by authorized approver before provisioning
+AC-01,EV00042,PASS,Approved by authorized approver before provisioning
+AC-01,EV00043,PASS,Approved by authorized approver before provisioning
+AC-01,EV00044,PASS,Approved by authorized approver before provisioning
+AC-01,EV00045,PASS,Approved by authorized approver before provisioning
+AC-01,EV00046,PASS,Approved by authorized approver before provisioning
+AC-01,EV00047,EXCEPTION,No request ticket for the access change
+AC-01,EV00048,PASS,Approved by authorized approver before provisioning
+AC-01,EV00049,PASS,Approved by authorized approver before provisioning
+AC-01,EV00050,PASS,Approved by authorized approver before provisioning
+AC-01,EV00051,PASS,Approved by authorized approver before provisioning
+AC-01,EV00052,PASS,Approval evidenced by attached manager e-mail dated before provisioning
+AC-01,EV00053,PASS,Approved by authorized approver before provisioning
+AC-01,EV00054,PASS,Approved by authorized approver before provisioning
+AC-01,EV00055,EXCEPTION,Ticket was raised for a different user than the one granted access
+AC-01,EV00056,PASS,Approved by authorized approver before provisioning
+AC-01,EV00057,PASS,Approved by authorized approver before provisioning
+AC-01,EV00058,PASS,Approved by authorized approver before provisioning
+AC-01,EV00059,PASS,Approved by authorized approver before provisioning
+AC-01,EV00060,PASS,Approved by authorized approver before provisioning
+AC-01,EV00061,PASS,Approved by authorized approver before provisioning
+AC-01,EV00062,PASS,Approved by authorized approver before provisioning
+AC-01,EV00063,PASS,Approved by authorized approver before provisioning
+AC-01,EV00064,PASS,Approved by authorized approver before provisioning
+AC-01,EV00065,EXCEPTION,Approver is neither the user's manager nor the group owner
+AC-01,EV00066,PASS,Approved by authorized approver before provisioning
+AC-01,EV00067,EXCEPTION,Verbal approval only; no documented approval
+AC-01,EV00068,PASS,Approved by authorized approver before provisioning
+AC-01,EV00069,PASS,Approved by authorized approver before provisioning
+AC-01,EV00070,PASS,Approved by authorized approver before provisioning
+AC-01,EV00071,PASS,Approved by authorized approver before provisioning
+AC-01,EV00072,PASS,Approved by authorized approver before provisioning
+AC-01,EV00073,PASS,Approved by authorized approver before provisioning
+AC-01,EV00074,PASS,Approved by authorized approver before provisioning
+AC-01,EV00075,PASS,Approved by authorized approver before provisioning
+AC-01,EV00076,PASS,Approved by authorized approver before provisioning
+AC-01,EV00077,PASS,Approved by authorized approver before provisioning
+AC-01,EV00078,PASS,Approved by authorized approver before provisioning
+AC-01,EV00079,PASS,Approved by authorized approver before provisioning
+AC-01,EV00080,PASS,Approved by authorized approver before provisioning
+AC-01,EV00081,PASS,Approved by authorized approver before provisioning
+AC-01,EV00082,PASS,Approved by authorized approver before provisioning
+AC-01,EV00083,PASS,Approved by authorized approver before provisioning
+AC-01,EV00084,PASS,Approved by authorized approver before provisioning
+AC-01,EV00085,PASS,Approved by authorized approver before provisioning
+AC-01,EV00086,PASS,Approved by authorized approver before provisioning
+AC-01,EV00087,PASS,Approved by authorized approver before provisioning
+AC-01,EV00088,PASS,Approval evidenced by attached manager e-mail dated before provisioning
+AC-01,EV00089,PASS,Approved by authorized approver before provisioning
+AC-01,EV00090,PASS,Approved by authorized approver before provisioning
+AC-01,EV00091,PASS,Approved by authorized approver before provisioning
+AC-01,EV00092,PASS,Approved by authorized approver before provisioning
+AC-01,EV00093,PASS,Approved by authorized approver before provisioning
+AC-01,EV00094,EXCEPTION,Requester approved their own access (SoD)
+AC-01,EV00095,PASS,Approval evidenced by attached manager e-mail dated before provisioning
+AC-01,EV00096,PASS,Approved by authorized approver before provisioning
+AC-01,EV00097,PASS,Approved by authorized approver before provisioning
+AC-01,EV00098,PASS,Approved by authorized approver before provisioning
+AC-01,EV00099,PASS,Approved by authorized approver before provisioning
+AC-01,EV00100,PASS,Approved by authorized approver before provisioning
+AC-01,EV00101,PASS,Approved by authorized approver before provisioning
+AC-01,EV00102,PASS,Approved by authorized approver before provisioning
+AC-01,EV00103,EXCEPTION,Approval recorded after access was granted
+AC-01,EV00104,PASS,Approved by authorized approver before provisioning
+AC-01,EV00105,PASS,Approved by authorized approver before provisioning
+AC-01,EV00106,PASS,Approved by authorized approver before provisioning
+AC-01,EV00107,PASS,Approved by authorized approver before provisioning
+AC-01,EV00108,PASS,Approved by authorized approver before provisioning
+AC-01,EV00109,EXCEPTION,Approver is neither the user's manager nor the group owner
+AC-01,EV00110,EXCEPTION,Approval recorded after access was granted
+AC-01,EV00111,EXCEPTION,Documented approval is dated after provisioning
+AC-01,EV00112,PASS,Approved by authorized approver before provisioning
+AC-01,EV00113,PASS,Approved by authorized approver before provisioning
+AC-01,EV00114,PASS,Approved by authorized approver before provisioning
+AC-01,EV00115,PASS,Approved by authorized approver before provisioning
+AC-01,EV00116,PASS,Approved by authorized approver before provisioning
+AC-01,EV00117,PASS,Approval evidenced by attached manager e-mail dated before provisioning
+AC-01,EV00118,PASS,Approved by authorized approver before provisioning
+AC-01,EV00119,EXCEPTION,No request ticket for the access change
+AC-01,EV00120,PASS,Approved by authorized approver before provisioning
+AC-01,EV00121,PASS,Approved by authorized approver before provisioning
+AC-01,EV00122,PASS,Approved by authorized approver before provisioning
+AC-01,EV00123,PASS,Approved by authorized approver before provisioning
+AC-01,EV00124,PASS,Approved by authorized approver before provisioning
+AC-01,EV00125,PASS,Approved by authorized approver before provisioning
+AC-01,EV00126,PASS,Approved by authorized approver before provisioning
+AC-01,EV00127,PASS,Approved by authorized approver before provisioning
+AC-01,EV00128,PASS,Approved by authorized approver before provisioning
+AC-01,EV00129,PASS,Approved by authorized approver before provisioning
+AC-01,EV00130,PASS,Approved by authorized approver before provisioning
+AC-01,EV00131,PASS,Approved by authorized approver before provisioning
+AC-01,EV00132,PASS,Approved by authorized approver before provisioning
+AC-01,EV00133,PASS,Approved by authorized approver before provisioning
+AC-01,EV00134,PASS,Approved by authorized approver before provisioning
+AC-02,U0074,EXCEPTION,Account disabled 79h after termination (limit 24h)
+AC-02,U0124,EXCEPTION,Account disabled 91h after termination (limit 24h)
+AC-02,U0134,EXCEPTION,Account disabled 54h after termination (limit 24h)
+AC-02,U0211,EXCEPTION,Account disabled on time but no leaver ticket documents the removal
+AC-02,U0088,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0076,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0061,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0198,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0291,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0290,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0281,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0177,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0276,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0114,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0067,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0165,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0197,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0182,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0083,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0158,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0077,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0176,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0079,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0272,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0121,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0150,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0193,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0119,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0116,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0108,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0234,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0068,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0235,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0185,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0273,PASS,Disabled within the required window with a leaver ticket
+AC-02,U0260,PASS,Disabled within the required window with a leaver ticket
+AC-03,EV00211,PASS,"P1/P2 incident, owner approved within 48h, access removed within 7 days"
+AC-03,EV00213,PASS,"P1/P2 incident, owner approved within 48h, access removed within 7 days"
+AC-03,EV00215,PASS,"P1/P2 incident, owner approved within 48h, access removed within 7 days"
+AC-03,EV00217,PASS,"P1/P2 incident, owner approved within 48h, access removed within 7 days"
+AC-03,EV00219,EXCEPTION,No retrospective approval recorded for emergency access
+AC-03,EV00221,EXCEPTION,Emergency access still active after 7 days

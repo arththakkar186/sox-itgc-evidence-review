@@ -1,0 +1,7 @@
+number,opened_at,priority,caller_id,short_description,retro_approver_id,retro_approved_at,closed_at,work_notes
+INC0005001,2026-10-16 15:39,1 - Critical,U0031,Production outage requiring DB-Finance-DBA break-glass access,U0020,2026-10-17 14:16,2026-10-16 22:16,Emergency access used to restore service.
+INC0005002,2026-10-08 13:17,1 - Critical,U0030,Production outage requiring DB-Finance-DBA break-glass access,U0020,2026-10-08 23:37,2026-10-08 19:37,Emergency access used to restore service.
+INC0005003,2026-10-15 17:24,1 - Critical,U0037,Production outage requiring AD-Domain-Admins break-glass access,U0020,2026-10-16 02:35,2026-10-15 23:35,Emergency access used to restore service.
+INC0005004,2026-10-20 11:15,1 - Critical,U0040,Production outage requiring AD-Domain-Admins break-glass access,U0020,2026-10-20 18:39,2026-10-20 17:39,Emergency access used to restore service.
+INC0005005,2026-10-15 12:26,2 - High,U0036,Production outage requiring AD-Domain-Admins break-glass access,,,2026-10-15 19:14,Emergency access used to restore service.
+INC0005006,2026-10-13 17:14,2 - High,U0033,Production outage requiring DB-Finance-DBA break-glass access,U0020,2026-10-14 07:50,2026-10-13 23:50,Emergency access used to restore service.

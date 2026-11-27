@@ -1,0 +1,13 @@
+[project]
+name = "soxreview"
+version = "1.0.0"
+description = "SOX ITGC access-control evidence review: deterministic tests plus Claude-assisted note review, human in the loop"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+dependencies = []
+
+[project.optional-dependencies]
+claude = ["anthropic"]
+
+[tool.setuptools]
+packages = ["soxreview"]

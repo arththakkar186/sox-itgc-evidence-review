@@ -1,0 +1,25 @@
+name: test
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        python: ["3.9", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python }}
+      - name: Unit and end-to-end tests (offline reviewer, no network)
+        run: python -m unittest discover -s tests -v
+      - name: Committed synthetic data matches the generator
+        run: |
+          python scripts/generate_synthetic.py --out /tmp/synth --period 2026-10 --seed 7
+          diff -r /tmp/synth data/synthetic
+      - name: Full run with pilot comparison
+        run: python -m soxreview run --data data/synthetic --period 2026-10 --out out/2026-10 --manual data/synthetic/manual_review.csv

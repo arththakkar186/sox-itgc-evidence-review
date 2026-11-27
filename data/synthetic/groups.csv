@@ -1,0 +1,12 @@
+group_id,name,application,privileged,sox_in_scope,owner_id
+G01,ERP-GL-Posting,ERP (General Ledger),false,true,U0025
+G02,ERP-Journal-Approver,ERP (General Ledger),true,true,U0025
+G03,ERP-AP-Payments,ERP (Accounts Payable),false,true,U0022
+G04,ERP-Vendor-Master,ERP (Accounts Payable),true,true,U0001
+G05,Payroll-Admin,Payroll,true,true,U0004
+G06,Payroll-Viewer,Payroll,false,true,U0021
+G07,AD-Domain-Admins,Active Directory,true,true,U0020
+G08,Entra-Privileged-Role-Admin,Microsoft Entra ID,true,true,U0023
+G09,DB-Finance-DBA,Finance database,true,true,U0020
+G10,Teams-Marketing,Microsoft 365,false,false,U0012
+G11,SharePoint-Sales,Microsoft 365,false,false,U0007
